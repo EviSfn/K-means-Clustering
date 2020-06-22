@@ -8,7 +8,7 @@
 #####################
 
 ###### Step 1: Data import ######
-setwd("C:/Users/sifne/Desktop/data_mining_cw1_w1707896")
+setwd("C:/Users/")
 #Import libraries
 library(readxl)
 library(dplyr)
